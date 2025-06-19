@@ -9,7 +9,7 @@ import folium
 from folium.plugins import BeautifyIcon
 from ortools.constraint_solver import routing_enums_pb2, pywrapcp
 
-st.set_page_config(page_title="Kadıköy Rota Planlayıcı", page_icon="🧭", layout="wide")
+st.set_page_config(page_title="Kadıköy Rota Planlayıcı", page_icon="🧭", layout="wide", initial_sidebar_state="expanded")
 st.title("Kadıköy Turistik Rota Planlayıcı")
 
 # ZIP içeriğini aç (ilk çalıştırmada çıkarılır)
