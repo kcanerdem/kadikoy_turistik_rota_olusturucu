@@ -5,3 +5,4 @@ networkx
 folium
 streamlit-folium
 ortools
+scipy
