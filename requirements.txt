@@ -6,3 +6,4 @@ folium
 streamlit-folium
 ortools
 scipy
+scikit-learn
