@@ -5,4 +5,5 @@ networkx
 folium
 streamlit-folium
 ortools
-scipy
+scipy==1.11.4
+shapely==1.8.5.post1
