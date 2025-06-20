@@ -21,7 +21,7 @@ Ek olarak:
 ## 🛠️ Teknik Detaylar
 
 ### 📍 Coğrafi Veri İşleme
-- **GeoPandas** Mekansal verilerin okunması ve yönetilmesi işlemlerinde kullanıldı. 
+- **GeoPandas**: Mekansal verilerin okunması ve yönetilmesi işlemleri
 - **OSMnx**: OpenStreetMap'ten Kadıköy ilçesine ait turistik noktalar ve otel noktaları ile yol ağı verisi çekildi. Otel ve turistik noktalar, gerçek yol ağı üzerindeki en yakın düğümlere eşlendi.
 - **NetworkX**: Gerçek yol ağı üzerinden en kısa mesafeler hesaplanarak, gerçek Rota (Yol) çizgisi Oluşturuldu. Ayrıca toplam rota Uzunluğu hesaplandı.
 - **Folium** & **streamlit-folium**: Harita üzerinde rota ve yer işaretlerinin görsel olarak gösterimi sağlandı.
