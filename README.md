@@ -36,7 +36,7 @@ Ek olarak:
 
 ### 🖥️ Web Uygulama Arayüzü
 - **Streamlit** ile geliştirilmiştir.
-- Uygulama **Streamlit Cloud** platformunda dağıtılmıştır.
+- Uygulama **Streamlit Cloud** platformu üzerinde yayınlanmıştır.
 
 
 ## 📂 Veri Kaynakları ve Hazırlık
