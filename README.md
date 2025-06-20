@@ -56,3 +56,7 @@ Uygulamayı çevrimiçi olarak Streamlit Cloud üzerinden deneyimlemek için:
 [kadikoy_turistik_rota_olusturucu.py](./kadikoy_turistik_rota_olusturucu.py)
 
 
+👤 Geliştirici
+Kemal Can Erdem
+🌐 LinkedIn: [www.linkedin.com/in/kemal-can-erdem-6483b4327]
+
