@@ -41,7 +41,7 @@ for key, default in {
         st.session_state[key] = default
 
 # Otel seçimi
-secili_otel_adi = st.sidebar.selectbox("Başlangıç Noktası (Otel Seçimi)", otel_isimleri)
+secili_otel_adi = st.sidebar.selectbox("Başlangıç Noktası (Otel) seçiniz.", otel_isimleri)
 secili_otel = oteller[oteller["name"] == secili_otel_adi].iloc[0]
 
 # Sidebar yer seçimi
